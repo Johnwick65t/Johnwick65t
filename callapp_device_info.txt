@@ -1,0 +1,54 @@
+
+
+CallApp Id: gp.108423415998415509947
+CallApp Version: 2.074 (2074)
+Manufacturer: Xiaomi
+Model: 2201116TG
+Device: viva
+SDK Version: 31
+MOD: Unknown
+BOOTLOADER: unknown
+Origin: Google Play
+Country code: US
+Sim country:null
+Internal Disk Size: 3772mb
+Internal Free: 0mb
+Is premium: false
+Has free store: false
+Catalog version: 456
+Store data version: 526
+Chosen theme: default_1
+Chosen cover: null
+Free gift count: 0
+Free gift countdown: 0
+LP: false
+Default phone app: true
+Call recorder: auto (conf RecordConfiguration{audioMethod=METHOD{title='AudioRecorder', value=0}, audioSource=AUDIO_SOURCE{title='Voice Recognition', source=6}, outputFormat=FILE_FORMAT{format=3, fileSuffix='amr', title='AMR'}, audioEncoderType=1, audioEncoder=com.callapp.contacts.recorder.encoder.AMREncoder@3df3564, forceIncommunicationMode=true, increaseCallVolume=true, accessiblityServiceEnabled=false})
+Given Permissions:
+Name: contacts Granted: true
+Name: phone Granted: true
+Name: call_log Granted: true
+Name: storage Granted: true
+Name: location Granted: true
+Name: sms Granted: true
+Name: microphone Granted: true
+Name: calendar Granted: false
+Name: core_permissions Granted: true
+Name: bluetooth Granted: false
+Needs Huawei protected apps permission: false
+Needs auto start permission: false
+Notification access granted: true
+Can draw overlays: true
+Is Ignoring Battery optimizations: false
+Installer package name: com.android.vending
+Dual sim: null
+Installed version 2074
+Last update: null
+Registration method USER_GOOGLE
+TK 38
+Gmail Accounts: 4
+Record Test Files: 0
+Backup: completeBackupSettings: false, BackupVia: UN_KNOWN, backupIntervalInDays: 2, backupVideoRingTones: true, backupContacts: true, backupCallLog: true, backupRecording: true, backupRetriesCount: 0, hasScheduleBackupJob: false
+Has GooglePlaySerivces: true
+
+No purchases. billingResult: response code: 0, debug msg: 
